@@ -12,3 +12,7 @@ The fee is calculated based on the following price structure:
 # Example
 
 This means, that, for example, if a car parked for 26 hours, the bill should be 15+(2\*0.5) = 16.0, because it was parked for 24 hours plus 2 additional hours.
+
+## Donate
+
+You can support me via [Barter](https://barter.me/sixtusagbo)
